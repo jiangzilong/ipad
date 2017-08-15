@@ -2,4 +2,4 @@
 高仿ipad样式
 
 使用CSS高仿ipd样式
-在线预览地址：www.jiangzilong.com/intertst/ipad/ipad.html
+在线预览地址：www.jiangzilong.com/interest/ipad/ipad.html
